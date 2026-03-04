@@ -1,11 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": ["MS7QJBNYPD.Harry.Ride-or-Wrong"],
-        "components": [
-          { "/": "/pool/*" }
-        ]
+        "appID": "MS7QJBNYPD.Harry.Ride-or-Wrong",
+        "paths": ["/pool/*"]
       }
     ]
   }
